@@ -35,4 +35,4 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Something I would impove on this project would be to create better selection statements and loops. 
+   - Something I would impove on this project would be to create better selection statements and loops. I also wish that my methods I created would work in PainterPlus instead of MuralPainter, but more useful stuff for my code were in muralPainter so I had to extend ToadPainter off of it.

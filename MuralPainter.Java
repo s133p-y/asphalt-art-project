@@ -121,5 +121,14 @@ public class MuralPainter extends PainterPlus {
       }
     }
   }
-  
+  // paints a line or streak of any color and size
+    public void paintStreak(String color, int spaces){
+    if(spaces > 0);{
+      setPaint(spaces);
+      while(hasPaint()){
+      paint(color);
+      move();
+      }
+    }
+  }
 }
